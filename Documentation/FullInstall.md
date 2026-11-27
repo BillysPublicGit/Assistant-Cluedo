@@ -1,0 +1,1 @@
+Full install instructions (README-FullInstall) in C:\Users\Billy\Documents\MyPrograms\PythonPrograms\_FullInstall
